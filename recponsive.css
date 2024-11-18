@@ -1,0 +1,156 @@
+@media screen and (max-width: 600px){
+    .nav a{
+        display: none;
+    }
+    .containerr{
+        display: flex;
+        flex-direction: column;
+      
+    }
+    
+    .from-2{
+        top: 0;
+        height: 50%;
+        bottom: 50%;
+    }
+    .from-1{
+   
+       height: 100%;
+        margin-top: 200px;
+    }
+    .read p{
+        font-size: 14px;
+    }
+    .free{
+        height: 80vh;
+    }
+    .free .fre{
+        width: 90%;
+        flex-direction: column;   
+    }
+    .free .fre .fr{
+        width: 50%;
+    }
+    .hard{
+        flex-direction: column;
+        height: 80vh;
+    }
+    .hard .xard{
+        flex-direction: column;
+       
+    }
+    .hard .xard .link{
+        width: 50%;
+    }
+    .browse{
+        flex-direction: column;
+        height: 100vh;
+       
+    }
+    .browse .brov{
+        flex-direction: column;
+    }
+    .browse .brov .brow{
+        flex-direction: column;
+        height: 49%;
+        width: 100%;
+    }
+    .browse .brov .broww{
+        flex-direction: column;
+        height: 49%;
+        bottom: 0; 
+        width: 100%;
+    }
+    .story{
+        flex-direction: column;
+        height: 180vh;
+    }
+    .story .stor{
+        flex-direction: column;
+     
+    }
+    .story .stor .sto{
+        flex-direction: column;  
+        width: 203%;
+        height: 45%;
+    }
+    .cleo{
+        margin-top: 50px;
+      display: grid;
+      grid-template-columns: auto auto;
+        height: 40%;
+        width: 100%;
+    }
+    .journal{
+        flex-direction: column;
+        
+    }
+    .journal .jour{
+        height: 140vh;
+        gap: 20px;
+        width: 90%;
+        flex-direction: column;  
+    }
+    .journal .jour .jour-0{
+        width: 100%;
+    }
+    .common{
+        position: relative;
+    }
+    
+    .morer{
+        margin-top: -5px;
+    }
+    .journal .jour .jour-1{
+        width: 100%;
+        
+    }
+    footer{
+        flex-direction: column;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        
+    }
+    footer .footer{
+        flex-direction: column;  
+        width: 90%;
+    }
+    .mk{
+        display: flex;
+      
+        
+        width: 50vw;
+    }
+    .mk b{
+        font-size: 18px;
+        width: 100%;
+        margin-top: 15px;
+    }
+    .celeb{
+        flex-direction: column;
+        background-color: white;
+        gap: 15px;
+    }
+    .celeb .cele{
+        width: 100%;
+    }
+    .celeb .cele img{
+        width: 100%; 
+    }
+    .product{
+        height: 70vh;
+        justify-content: center;
+        flex-direction: column;
+    }
+    .product .pro{
+        width: 100%;
+    }
+    .product .proo{
+        width: 100%; 
+        margin-top: -210px; 
+    }
+    .pulstr button{
+        width: 20%;
+    }
+}
